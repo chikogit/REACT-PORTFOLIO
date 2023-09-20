@@ -1,0 +1,26 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: #FF006E;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .socials {
+    display: flex;
+    align-items: center;
+  }
+  
+  .socials > * {
+    margin-right: 1rem;
+  }
+  
+  .copy {
+    font-size: 0.8rem;
+    color: #666;
+  }
+  
